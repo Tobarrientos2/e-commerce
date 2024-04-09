@@ -10,5 +10,5 @@
     <p class="text-lead">
         {one.v_txt_3}
     </p>
-   <Three_Hero2B></Three_Hero2B>
+   <!-- <Three_Hero2B></Three_Hero2B> -->
 </div>
