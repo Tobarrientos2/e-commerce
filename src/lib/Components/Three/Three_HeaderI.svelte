@@ -7,10 +7,13 @@
     aria-current="page"
     class="brand-wrap w-nav-brand w--current"
     aria-label="home"
-    ><img
-        src="https://assets-global.website-files.com/657c4832d6cfd790b2ed16a3/657d23f142a3aaa03531e808_shoner.svg"
+    >
+    <!-- logo -->
+    <img
+    
+        src=""
         loading="eager"
-        alt="Shoner"
+        alt=""
         class="brand"
     /></a
 >

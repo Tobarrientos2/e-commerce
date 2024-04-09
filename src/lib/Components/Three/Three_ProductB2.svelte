@@ -10,5 +10,5 @@
                             href="#w-tabs-0-data-w-pane-1"
                             role="tab"
                             aria-controls="w-tabs-0-data-w-pane-1"
-                            aria-selected="true"><div>Description</div></a
+                            aria-selected="true"><div>Adquirir</div></a
                         >

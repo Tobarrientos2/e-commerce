@@ -6,7 +6,13 @@
 	import Two_ProductHPP from './../Two/Two_ProductHPP.svelte';
 	import Three_ProductI2 from './../Three/Three_ProductI2.svelte';
 	import Three_ProductI from './../Three/Three_ProductI.svelte';
+    import { getItemBySlug } from '$lib/utils';
+    import { page } from '$app/stores';
+    import { getSc } from '$lib/utils';
 
+    let pathname = $page.url.pathname;
+    let sc1 = getSc();
+    let one = getItemBySlug(pathname, sc1)
 </script>
 
 
@@ -21,8 +27,7 @@
                 id="w-node-b607f53f-abe4-6baf-6588-24d4c9fa2918-9b2058a1"
                 class="product-details-image-wrap"
             >
-               <Three_ProductI></Three_ProductI>
-               <Three_ProductI></Three_ProductI>
+               <Three_ProductI obj={one}></Three_ProductI>
                 <div
                     id="w-node-b607f53f-abe4-6baf-6588-24d4c9fa291e-9b2058a1"
                     class="w-dyn-list w-dyn-items-repeater-ref"
@@ -39,8 +44,8 @@
                         data-wf-collection="f_more_images_4dr"
                         data-wf-template-id="wf-template-b607f53f-abe4-6baf-6588-24d4c9fa291f"
                     >
-                    <Three_ProductI2></Three_ProductI2>
-                    <Three_ProductI2></Three_ProductI2>
+                    <!-- <Three_ProductI2></Three_ProductI2>
+                    <Three_ProductI2></Three_ProductI2> -->
                        
                     </div>
                     <div class="empty-state w-dyn-hide w-dyn-empty">
@@ -51,9 +56,10 @@
             <div
                 id="w-node-b607f53f-abe4-6baf-6588-24d4c9fa2926-9b2058a1"
                 class="product-details"
-            >
-               <Two_ProductHPP></Two_ProductHPP>
-              <Two_ProductF></Two_ProductF>
+                >
+                <Two_ProductHPP obj={one}></Two_ProductHPP>
+                <Three_ProductB2></Three_ProductB2>
+              <!-- <Two_ProductF></Two_ProductF> -->
                 <div
                     data-current="Tab 2"
                     data-easing="ease"
@@ -62,14 +68,27 @@
                     class="product-tab w-tabs"
                 >
                     <div class="product-tab-menu w-tab-menu" role="tablist">
-                        <Three_ProductB></Three_ProductB>
-                        <Three_ProductB2></Three_ProductB2>
+                        <!-- <Three_ProductB></Three_ProductB> -->
                     </div>
                     <div class="product-tab-content w-tab-content">
-                        <Two_ProductP></Two_ProductP>
+                        <!-- <Two_ProductP {one}></Two_ProductP> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+
+<style>
+    .product-details-image-wrap{
+        display: block;
+
+    } 
+    .product-details-section{
+        padding-bottom: 140px;
+
+    }  
+</style>
+
+

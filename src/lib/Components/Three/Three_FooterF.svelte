@@ -3,7 +3,7 @@
 
 <div class="footer-form-wrap w-form">
     <form
-        id="wf-form-Footer-Subscribe-Form"
+        id=""
         name="wf-form-Footer-Subscribe-Form"
         data-name="Footer Subscribe Form"
         method="get"
@@ -17,7 +17,7 @@
                 maxlength="256"
                 name="Email"
                 data-name="Email"
-                placeholder="Enter email"
+                placeholder="Correo Electrónico"
                 type="email"
                 id="Email-5"
                 required=""
@@ -25,7 +25,7 @@
                 type="submit"
                 data-wait="Please wait..."
                 class="button-white footer-form-button w-button"
-                value="Subscribe"
+                value="Suscribirse"
             />
         </div>
     </form>
@@ -35,7 +35,7 @@
         role="region"
         aria-label="Footer Subscribe Form success"
     >
-        <div>Thank you! Your submission has been received!</div>
+        <div>¡Gracias! La recepción ha sido exitosa.!</div>
     </div>
     <div
         class="error-message w-form-fail"
@@ -43,6 +43,6 @@
         role="region"
         aria-label="Footer Subscribe Form failure"
     >
-        <div>Oops! Something went wrong while submitting the form.</div>
+        <div>Oops! Ha habido un error. Por favor intentalo más tarde.</div>
     </div>
 </div>

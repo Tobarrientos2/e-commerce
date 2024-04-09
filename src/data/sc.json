@@ -1,0 +1,305 @@
+{"one": {
+    "v_slug": "",
+    "v_img": "/sc/sc_puffmonkeys.png",
+    "v_txt_1": "", 
+    "v_txt_2": "",
+    "v_txt_3": "",
+    "arr": [
+        { 
+          "v_slug": "/productos/tropical-paradise",
+          "v_img": "/sc/sc_tropical_paradise.png",
+          "v_txt_1": "Tropical Paradise",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Deléitate con una explosión tropical de sabores exóticos con nuestro vaporizador desechable Tropical Paradise. Perfecto para aquellos que buscan una experiencia refrescante y afrutada en cada inhalación." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/sweet-bears",
+          "v_img": "/sc/sc_sweat_bears.png",
+            "v_txt_1": "Sweet Bears",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Sumérgete en la dulzura con nuestro vaporizador desechable Sweet Bears. Con un sabor a ositos de goma irresistiblemente delicioso, cada puff te dejará con una sonrisa en el rostro." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/icy-mint",
+          "v_img": "/sc/sc_icy_mint2.png",
+            "v_txt_1": "Icy Mint",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Refresca tus sentidos con nuestro vaporizador desechable Icy Mint. Con un sabor a menta helada que te revitalizará en cada inhalación, este producto es perfecto para aquellos que buscan un toque de frescura en su experiencia de vapeo." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/berry-crush",
+          "v_img": "/sc/sc_berry_crush.png",
+            "v_txt_1": "Berry Crush",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Sumérgete en una explosión de bayas con nuestro vaporizador desechable Berry Crush. Con una mezcla perfecta de sabores de bayas maduras, este producto satisfará tus antojos de frutas dulces y jugosas." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/funky-dragon",
+          "v_img": "/sc/sc_funky_dragon.png",
+            "v_txt_1": "Funky Dragon",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Explora nuevos horizontes de sabor con nuestro vaporizador desechable Funky Dragon. Con una combinación única de frutas tropicales y un toque exótico, este producto te transportará a un mundo de aventuras aromáticas." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/icy-kawai",
+          "v_img": "/sc/sc_icy_kawaii.png",
+            "v_txt_1": "Icy Kawai",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Disfruta de una explosión de frescura con nuestro vaporizador desechable Icy Kawai. Con un sabor refrescante y dulce, este producto es perfecto para aquellos que buscan una experiencia de vapeo estimulante y deliciosa." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/coconut-cloud",
+          "v_img": "/sc/sc_coconut_cloud.png",
+            "v_txt_1": "Coconut Cloud",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Embárcate en un viaje tropical con nuestro vaporizador desechable Coconut Cloud. Con un sabor a coco suave y cremoso, cada puff te transportará a una isla paradisíaca en cada inhalación." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/vera-grape",
+          "v_img": "/sc/sc_veragrape.png",
+            "v_txt_1": "Vera Grape",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Deléitate con la dulzura de las uvas con nuestro vaporizador desechable Vera Grape. Con un sabor a uva naturalmente delicioso, este producto es perfecto para aquellos que buscan una experiencia de vapeo afrutada y satisfactoria." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/unicorn-candy",
+          "v_img": "/sc/sc_unicorn_candy.png",
+            "v_txt_1": "Unicorn Candy",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Déjate llevar por la magia con nuestro vaporizador desechable Unicorn Candy. Con un sabor a caramelos mágicos y arcoíris, este producto es perfecto para aquellos que buscan una experiencia de vapeo dulce y encantadora." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/lemon-squash",
+          "v_img": "/sc/sc_lemon_squash.png",
+            "v_txt_1": "Lemon Squash",
+            "v_txt_2": 22990,
+            "v_txt_3": "Gremlin",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Refresca tu paladar con nuestro vaporizador desechable Lemon Squash. Con un sabor a limón fresco y chispeante, cada puff te revitalizará y te dejará con ganas de más." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/clear",
+          "v_img": "/sc/sc_clear.png",
+            "v_txt_1": "Clear",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Disfruta de una experiencia de vapeo cristalina con nuestro vaporizador desechable Clear. Con un sabor limpio y fresco, este producto es perfecto para aquellos que buscan una experiencia de vapeo suave y sin complicaciones." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/mixed-berries",
+          "v_img": "/sc/sc_mixed_bearries.png",
+            "v_txt_1": "Mixed Berries",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Sumérgete en una mezcla perfecta de sabores de bayas con nuestro vaporizador desechable Mixed Berries. Con una combinación de frutas del bosque dulces y jugosas, este producto es una delicia para los amantes de las bayas." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/fresh-mint",
+          "v_img": "/sc/sc_freshmint.png",
+            "v_txt_1": "Fresh Mint",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Refresca tus sentidos con nuestro vaporizador desechable Fresh Mint. Con un sabor a menta fresca y vigorizante, este producto es perfecto para aquellos que buscan una experiencia de vapeo refrescante y revitalizante." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/blue-razz-ice",
+          "v_img": "/sc/sc_blue_razz_ice.png",
+            "v_txt_1": "Blue Razz Ice",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Disfruta de una explosión de sabor con nuestro vaporizador desechable Blue Razz Ice. Con un sabor a frambuesa azul intensa y un toque de frescura, este producto es una delicia para los amantes de los sabores frutales y refrescantes." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/strawnana",
+          "v_img": "sc/sc_strawnana2.png",
+            "v_txt_1": "Strawnana",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Disfruta de una combinación única de fresas y plátanos con nuestro vaporizador desechable Strawnana. Con un sabor a frutas dulces y cremosas, este producto es una delicia para aquellos que buscan una experiencia de vapeo suave y afrutada." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/cherry-cola",
+          "v_img": "/sc/sc_cherry_cola.png",
+            "v_txt_1": "Cherry Cola",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Revive la nostalgia con nuestro vaporizador desechable Cherry Cola. Con un sabor a cola refrescante y cerezas dulces, este producto te llevará de vuelta a tus días de infancia con cada puff." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/peach-ice",
+          "v_img": "/sc/sc_peach_ice.png",
+            "v_txt_1": "Peach Ice",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Disfruta de una experiencia de vapeo refrescante con nuestro vaporizador desechable Peach Ice. Con un sabor a durazno dulce y un toque de frescura, este producto es perfecto para aquellos que buscan una experiencia de vapeo frutal y revitalizante." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/watermelon-candy",
+          "v_img": "/sc/sc_watermelon_candy.png",
+            "v_txt_1": "Watermelon Candy",
+            "v_txt_2": 21990,
+            "v_txt_3": "Novo Bar",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Deléitate con una explosión tropical de sabores exóticos con nuestro vaporizador desechable Tropical Paradise. Perfecto para aquellos que buscan una experiencia refrescante y afrutada en cada inhalación." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/promo-nova-bar",
+          "v_img": "/sc/sc_novo.png",
+            "v_txt_1": "PROMO NOVA BAR",
+            "v_txt_2": 40000,
+            "v_txt_3": "Promos",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Aprovecha nuestra promoción especial con el pack PROMO NOVA BAR. Disfruta de dos vaporizadores desechables Novo Bar por un precio especial, perfecto para compartir con amigos o para tener un suministro adicional." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/promo-mix",
+          "v_img": "/sc/sc_all.png",
+            "v_txt_1": "PROMO MIX",
+            "v_txt_2": 42000,
+            "v_txt_3": "Promos",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Explora una variedad de sabores con nuestra promoción MIX. Disfruta de dos vaporizadores desechables de diferentes categorías por un precio especial, para que puedas probar una amplia gama de sabores y encontrar tus favoritos." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          },
+          {
+            "v_slug": "/productos/promo-gremlin",
+          "v_img": "/sc/sc_allgremlin.png",
+            "v_txt_1": "PROMO GREMLIN",
+            "v_txt_2": 43000,
+            "v_txt_3": "Promos",
+            "arr": [
+                {"v_txt_1": "",
+                "v_txt_2": "Aprovecha nuestra oferta especial con el pack PROMO GREMLIN. Disfruta de dos vaporizadores desechables Gremlin por un precio especial, perfecto para aquellos que buscan una experiencia de vapeo premium a un precio increíble." },
+                {"v_txt_1": "", "v_txt_2": "Todos nuestros vaporizadores desechables tienen una capacidad de 6000 puffs, lo que garantiza una larga duración y una experiencia satisfactoria para nuestros clientes."},
+                {"v_txt_1":"", "v_txt_2":"Además, cada dispositivo viene con un puerto de carga tipo C para una carga rápida y conveniente."},
+                {"v_txt_1": "", "v_txt_2":"Para brindar una experiencia aún más conveniente, hemos incorporado indicadores de nivel de líquido y de batería a través de luces RGB, lo que permite a nuestros clientes estar siempre al tanto del estado de su dispositivo. Todos nuestros productos están sellados para garantizar la frescura y la calidad en cada uso."}
+            ]
+          }
+      
+        
+    ] 
+}}

@@ -1,0 +1,45 @@
+{
+    "one": {
+      "v_slug": "/beneficios",
+      "v_img": "",
+      "v_txt_1": "Descubre la Innovación en Vaporizadores Desechables de Puff Monkeys",
+      "v_txt_2": "Bienvenido a Puff Monkeys, tu destino confiable para vaporizadores desechables de alta calidad. Nuestros productos están diseñados para ofrecer una experiencia de vapeo excepcional, con un enfoque en la durabilidad, conveniencia y satisfacción del cliente.",
+      "v_txt_3": "En Puff Monkeys, nos enorgullece presentar una amplia selección de vaporizadores desechables que se adaptan a tus necesidades y preferencias. Desde opciones sin nicotina hasta variedades con nicotina, y una amplia gama de sabores para elegir, tenemos algo para todos los aficionados al vapeo. Además, todos nuestros vaporizadores cuentan con una capacidad de 6000 puffs, carga rápida a través de puerto tipo C, indicadores de nivel de líquido y batería, garantizando una experiencia sin preocupaciones y llena de sabor en cada uso.",
+      "arr": [
+        { 
+          "v_img": "/x/x_banana.png",
+          "v_slug": "/beneficios/eficiencia-sin-complicaciones",
+          "v_txt_1": "Eficiencia sin Complicaciones",
+          "v_txt_2": "Nuestros vaporizadores desechables están diseñados para brindarte una experiencia de vapeo sin complicaciones. Con una capacidad de 6000 puffs y carga rápida, disfruta de la conveniencia y la satisfacción en cada inhalación.",
+          "v_txt_3": "Disfruta de la eficiencia y la comodidad en tu experiencia de vapeo con nuestros productos de alta calidad"
+        },
+        {"v_img": "/x/x_fruits.png",
+        "v_slug": "/beneficios/variedad-de-sabores-excepcionales",
+        "v_txt_1": "Variedad de Sabores Excepcionales",
+        "v_txt_2": "Explora una amplia gama de sabores únicos con nuestros vaporizadores desechables. Desde frutas frescas hasta postres indulgentes, cada inhalación te llevará a un mundo de deliciosos aromas y satisfacción.",
+        "v_txt_3": "Descubre una experiencia de vapeo emocionante y llena de sabor con nuestras diversas opciones de sabores."
+        },
+        {
+        "v_img": "/x/x_strawberry.png",
+        "v_slug": "/beneficios/calidad-garantizada",
+        "v_txt_1": "Calidad Garantizada",
+        "v_txt_2": "En Puff Monkeys, nos comprometemos a ofrecer productos de la más alta calidad. Todos nuestros vaporizadores desechables están sellados para garantizar la frescura y la integridad del producto en cada uso.",
+        "v_txt_3": "Confía en la calidad y el rendimiento de nuestros productos para una experiencia de vapeo inigualable."
+        },
+        {
+            "v_img": "/x/x_smoke.png",
+            "v_slug": "/beneficios/diseño-ergonomico",
+            "v_txt_1": "Diseño Ergonómico",
+            "v_txt_2": "Nuestros vaporizadores desechables han sido diseñados con la comodidad del usuario en mente. Con un diseño ergonómico que se adapta perfectamente a tu mano, disfruta de una experiencia de vapeo sin esfuerzo y confortable.",
+            "v_txt_3": "Experimenta la comodidad y la practicidad en cada vapeo con nuestro diseño ergonómico y fácil de usar."
+            },
+            {
+            "v_img":  "/x/x_smoke.png",
+            "v_slug": "/beneficios/control-de-calidad-riguroso",
+            "v_txt_1": "Control de Calidad Riguroso",
+            "v_txt_2": "En Puff Monkeys, nos comprometemos a ofrecerte productos de la más alta calidad. Cada vaporizador desechable pasa por estrictos controles de calidad para garantizar un rendimiento consistente y una experiencia de vapeo satisfactoria.",
+            "v_txt_3": "Confía en la calidad y la fiabilidad de nuestros productos, respaldados por un riguroso control de calidad en cada etapa de producción."
+            }
+      ]
+    }
+  }

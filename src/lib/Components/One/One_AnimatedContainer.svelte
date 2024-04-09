@@ -1,6 +1,6 @@
 <script>
     import TwoAnimatedContainerH from "../Two/Two_AnimatedContainerH.svelte";
-
+    export let one = {};
 </script>
 
 <div
@@ -19,12 +19,9 @@
         </div>
         <div class="category-list-wrapper w-dyn-list">
             <div role="list" class="category-collection-list w-dyn-items">
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
-                <TwoAnimatedContainerH></TwoAnimatedContainerH>
+                {#each one.arr as obj}
+                <TwoAnimatedContainerH {obj}></TwoAnimatedContainerH>
+                {/each}
             </div>
         </div>
     </div>

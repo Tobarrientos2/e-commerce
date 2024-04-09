@@ -4909,7 +4909,7 @@ figcaption {
 .hero-info-wrap {
     grid-column-gap: 30px;
     grid-row-gap: 30px;
-    background-image: url("https://assets-global.website-files.com/657c4832d6cfd790b2ed16a3/658293a1ee02ab5724f051d4_hero-image-02.jpg");
+    background-image: url("/sc/sc_puffmonkeys.jpeg");
     background-position: 50% 20%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4949,7 +4949,7 @@ figcaption {
 }
 
 .hero-title-center {
-    color: var(--color--black);
+    color: var(--color--white);
     text-align: center;
     margin-bottom: 0;
     font-size: 120px;
@@ -5035,6 +5035,7 @@ figcaption {
 }
 
 .product-item {
+    height: 100%;
     text-decoration: none;
     display: block;
     position: relative;
@@ -5937,7 +5938,7 @@ figcaption {
 
 .hero-description {
     width: 80%;
-    color: var(--color--black);
+    color: var(--color--white);
     margin-bottom: 0;
 }
 
@@ -6642,6 +6643,7 @@ figcaption {
     }
 
     .product-list {
+        /* pymecheck-changed */
         grid-template-columns: 1fr;
     }
 

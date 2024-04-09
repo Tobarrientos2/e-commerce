@@ -3,6 +3,8 @@
 	import One_P_Dropdown from './One_P_Dropdown.svelte';
 	import Three_HeaderI from './../Three/Three_HeaderI.svelte';
 	import Two_HeaderH from './../Two/Two_HeaderH.svelte';
+
+    export let one = {};
 </script>
 
 <div
@@ -16,7 +18,7 @@
 >
     <div class="w-layout-blockcontainer container w-container">
         <div class="nav-item-wrap">
-          <Two_HeaderH></Two_HeaderH>
+          <Two_HeaderH obj={one}></Two_HeaderH>
            
         </div>
         <div class="w-layout-grid grid-navbar">
@@ -27,7 +29,7 @@
                 class="nav-menu w-nav-menu"
             >
                <Three_HeaderL></Three_HeaderL>
-                <One_P_Dropdown></One_P_Dropdown>
+                <!-- <One_P_Dropdown></One_P_Dropdown> -->
             </nav>
             <div
                 id="w-node-bc339dbc-2a59-0847-4b81-c02c2ccf17dd-2ccf17b1"

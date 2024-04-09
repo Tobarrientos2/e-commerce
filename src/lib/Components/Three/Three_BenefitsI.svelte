@@ -1,5 +1,5 @@
 <script>
-
+export let obj = {};
 
 </script>
 
@@ -11,10 +11,16 @@ style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotate
 class="benefit-item-wrap"
 >
 <img
-    src="https://assets-global.website-files.com/657c4832d6cfd790b2ed16a3/657d4963b25a87046b101627_benefit-01.svg"
+    src={obj.v_img}
     loading="eager"
     alt="Benefit icon 01"
     class="benefit-icon"
 />
-<h2 class="benefit-title">Free shipping</h2>
+<h2 class="benefit-title">{obj.v_txt_1}</h2>
 </div>
+
+
+<style>
+    .benefit-icon{
+    }
+</style>
